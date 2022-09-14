@@ -1,6 +1,6 @@
 {
   "name": "@xxm7/eslint-config-ts",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "keywords": [
     "eslint"
@@ -33,7 +33,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.37.0",
     "@typescript-eslint/parser": "^5.37.0",
-    "@xxm7/eslint-config-base": "^2.0.0"
+    "@xxm7/eslint-config-base": "^2.0.1"
   },
   "publishConfig": {
     "access": "public"
