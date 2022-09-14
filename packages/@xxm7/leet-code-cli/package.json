@@ -6,7 +6,7 @@
     "leet-code"
   ],
   "author": "Code_xxmyyds <xxmyyds@163.com>",
-  "homepage": "https://github.com/xxmyyds/my-toys#readme",
+  "homepage": "https://github.com/xxmyyds/my-toys/tree/master/packages/%40xxm7/leet-code-cli#readme",
   "license": "ISC",
   "main": "lib/my-leet-code-cli.js",
   "directories": {

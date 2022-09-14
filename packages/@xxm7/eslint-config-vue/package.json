@@ -6,7 +6,7 @@
     "eslint"
   ],
   "author": "Code_xxmyyds <xxmyyds@163.com>",
-  "homepage": "https://github.com/xxmyyds/my-toys#readme",
+  "homepage": "https://github.com/xxmyyds/my-toys/tree/master/packages/%40xxm7/eslint-config-vue#readme",
   "license": "ISC",
   "main": "index.js",
   "repository": {
