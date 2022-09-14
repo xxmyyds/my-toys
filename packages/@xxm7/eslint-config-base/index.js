@@ -215,7 +215,7 @@ module.exports = {
     'no-multi-spaces': 'error',
     'no-multi-str': 'error',
     'no-with': 'error',
-    'no-void': 'error',
+    'no-void': 'off',
     'no-useless-escape': 'off',
     'vars-on-top': 'error',
     'require-await': 'off',
