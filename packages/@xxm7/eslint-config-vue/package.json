@@ -1,6 +1,6 @@
 {
   "name": "@xxm7/eslint-config-vue",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "",
   "keywords": [
     "eslint"
@@ -21,7 +21,7 @@
     "eslint": "^8.23.1"
   },
   "dependencies": {
-    "@xxm7/eslint-config-ts": "^2.0.1",
+    "@xxm7/eslint-config-ts": "^2.0.3",
     "eslint-plugin-vue": "^9.4.0"
   },
   "publishConfig": {
