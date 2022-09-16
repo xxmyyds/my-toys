@@ -8,7 +8,7 @@ module.exports = {
   ],
   overrides: basic.overrides,
   rules: {
-    // 'import/named': 'off',
+    'import/named': 'off',
 
     // TS
     '@typescript-eslint/semi': ['error', 'never'],
