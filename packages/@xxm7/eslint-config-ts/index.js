@@ -48,8 +48,6 @@ module.exports = {
       'stroustrup',
       { allowSingleLine: true },
     ],
-    'comma-dangle': 'off',
-    '@typescript-eslint/comma-dangle': ['error', 'always-multiline'],
     '@typescript-eslint/object-curly-spacing': ['error', 'always'],
 
     // off
@@ -65,5 +63,7 @@ module.exports = {
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     '@typescript-eslint/ban-types': 'off',
     '@typescript-eslint/no-namespace': 'off',
+    '@typescript-eslint/comma-dangle': 'off',
+    '@typescript-eslint/no-extra-semi': 'off',
   },
 }
