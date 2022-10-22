@@ -51,6 +51,7 @@ module.exports = {
     '@typescript-eslint/object-curly-spacing': ['error', 'always'],
 
     // off
+    'comma-dangle': 'off',
     '@typescript-eslint/camelcase': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-member-accessibility': 'off',
