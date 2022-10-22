@@ -22,5 +22,6 @@ module.exports = {
     'vue/multi-word-component-names': 'off',
     'vue/singleline-html-element-content-newline': 'off',
     'vue/prefer-import-from-vue': 'off',
+    'vue/html-self-closing': 'off',
   },
 }
